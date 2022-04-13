@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParamUnitDesc version="1.0">
+	<CategoryTypeList>
+		<CategoryType name="Profile">
+			<Category name="HS" alias="Headset"/>
+			<Category name="SPK" alias="Speaker"/>
+		</CategoryType>
+	</CategoryTypeList>
+	<ParamUnit>
+		<Param name="headset_pga_visibility" type="int"/>
+		<Param name="speaker_pga_visibility" type="int"/>
+		<Param name="record_gain_visibility" type="int"/>
+	</ParamUnit>
+</ParamUnitDesc>

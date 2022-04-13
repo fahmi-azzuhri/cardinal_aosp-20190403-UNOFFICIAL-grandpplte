@@ -1,0 +1,13 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-A500G</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>A500FOJK</CSCName>
+	<CSCVersion>1CPK1</CSCVersion>
+	<NbCustomer>2</NbCustomer>
+	<CustomerData src="/Customer/INU/customer.xml" />
+	<CustomerData src="/Customer/INS/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>

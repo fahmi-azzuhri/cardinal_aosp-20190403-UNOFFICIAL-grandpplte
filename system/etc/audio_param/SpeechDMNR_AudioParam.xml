@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioParam version="1.0">
+  <ParamTree>
+    <Param path="NB" param_id="0"/>
+    <Param path="WB" param_id="1"/>
+    <Param path="NB,HEADSET_PATH" param_id="0"/>
+    <Param path="NB,HANDSET_EV_PATH" param_id="0"/>
+    <Param path="NB,TP5PI_PATH" param_id="0"/>
+    <Param path="NB,SPK_EV_PATH" param_id="0"/>
+    <Param path="NB,SPEAKER_PHONE_PATH" param_id="0"/>
+    <Param path="NB,BLUETOOTH_16_PATH" param_id="0"/>
+    <Param path="WB,HEADSET_PATH" param_id="1"/>
+    <Param path="WB,BT_NSEC_OFF_PATH" param_id="1"/>
+    <Param path="NB,LOOPBACK_NODELAY_HEADSET_MIC1" param_id="0"/>
+    <Param path="NB,SPK_2MICEV_PATH" param_id="0"/>
+    <Param path="WB,HANDSET_PATH" param_id="1"/>
+    <Param path="WB,SPEAKER_PHONE_PATH" param_id="1"/>
+    <Param path="WB,HANDSET_EMERGENCY_PATH" param_id="1"/>
+    <Param path="NB,HANDSET_PATH" param_id="0"/>
+    <Param path="NB,SPEAKER_EMERGENCY_PATH" param_id="0"/>
+    <Param path="NB,SPK_2MIC_PATH" param_id="0"/>
+    <Param path="WB,HANDSET_EV_PATH" param_id="1"/>
+    <Param path="WB,HANDSETHAC_PATH" param_id="1"/>
+    <Param path="WB,HANDSET_2MIC_PATH" param_id="1"/>
+    <Param path="WB,HANDSET_2MICEV_PATH" param_id="1"/>
+    <Param path="NB,HFK_PATH" param_id="0"/>
+    <Param path="NB,BLUETOOTH_PATH" param_id="0"/>
+    <Param path="NB,BT_NSEC_OFF_PATH" param_id="0"/>
+    <Param path="NB,HANDSET_2MICEV_PATH" param_id="0"/>
+    <Param path="WB,LOOPBACK_NODELAY_HEADSET_MIC3" param_id="1"/>
+    <Param path="WB,SPK_EV_PATH" param_id="1"/>
+    <Param path="WB,LOOPBACK_HANDSET_PATH" param_id="1"/>
+    <Param path="WB,BLUETOOTH_16_PATH" param_id="1"/>
+    <Param path="WB,BLUETOOTH_PATH" param_id="1"/>
+    <Param path="NB,BT_NSEC_OFF_16_PATH" param_id="0"/>
+    <Param path="WB,BT_NSEC_OFF_16_PATH" param_id="1"/>
+    <Param path="NB,HANDSET_EMERGENCY_PATH" param_id="0"/>
+    <Param path="NB,HANDSETHAC_PATH" param_id="0"/>
+    <Param path="NB,HANDSET_2MIC_PATH" param_id="0"/>
+    <Param path="WB,SPEAKER_EMERGENCY_PATH" param_id="1"/>
+    <Param path="WB,SPK_2MIC_PATH" param_id="1"/>
+    <Param path="WB,SPK_2MICEV_PATH" param_id="1"/>
+    <Param path="WB,TP5PI_PATH" param_id="1"/>
+  </ParamTree>
+  <ParamUnitPool>
+    <ParamUnit param_id="0">
+      <Param name="dmnr_para" value="0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x44,0x0,0x0,0x0"/>
+    </ParamUnit>
+    <ParamUnit param_id="1">
+      <Param name="dmnr_para" value="0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x44,0x0,0x0,0x0"/>
+    </ParamUnit>
+  </ParamUnitPool>
+</AudioParam>
